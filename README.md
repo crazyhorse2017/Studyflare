@@ -28,7 +28,14 @@
   <img alt="React 19" src="https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6-3178c6?logo=typescript&logoColor=white">
   <img alt="Tailwind CSS 4" src="https://img.shields.io/badge/Tailwind-4-06b6d4?logo=tailwindcss&logoColor=white">
-  <img alt="Cost: free tier" src="https://img.shields.io/badge/cost-free%20tier-1f3b66">
+  <img alt="Vite 8" src="https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white">
+  <img alt="SQLite 3" src="https://img.shields.io/badge/SQLite-3-003b57?logo=sqlite&logoColor=white">
+  <img alt="Wrangler 4" src="https://img.shields.io/badge/Wrangler-4-f38020?logo=cloudflare&logoColor=white">
+  <img alt="Cloudflare Access" src="https://img.shields.io/badge/Cloudflare-Access-f38020?logo=cloudflare&logoColor=white">
+  <img alt="jose" src="https://img.shields.io/badge/jose-JWT-000000?logo=jsonwebtokens&logoColor=white">
+  <img alt="Python 3.12" src="https://img.shields.io/badge/Python-3.12-3776ab?logo=python&logoColor=white">
+  <img alt="uv" src="https://img.shields.io/badge/uv-Astral-261230?logo=uv&logoColor=white">
+  <img alt="Cost: $0/mo" src="https://img.shields.io/badge/cost-%240%2Fmo-1f3b66">
 </p>
 
 ---
