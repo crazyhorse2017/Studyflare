@@ -44,7 +44,7 @@
 
 About 10 minutes, with a free Cloudflare account and a free GitHub account.
 
-1. **Deploy.** Click **Deploy to Cloudflare** and sign in to Cloudflare and GitHub. On the setup page, put your email in **`ALLOWED_EMAILS`**. Leave `ACCESS_TEAM_DOMAIN` and `ACCESS_AUD` as `todo`. Click Deploy and wait for the build to finish.
+1. **Deploy.** Click **Deploy to Cloudflare** and sign in to Cloudflare and GitHub. Make sure to click "Create private Git repository". On the setup page, put your email in **`ALLOWED_EMAILS`**. Leave `ACCESS_TEAM_DOMAIN` and `ACCESS_AUD` as `todo`. Click Deploy and wait for the build to finish.
 2. **Lock it.** Open your new `studyflare.<you>.workers.dev` link. Studyflare asks for a one-time Cloudflare API token, then:
    - creates a Cloudflare Access sign-in so only your email can open it;
    - brands that sign-in page as Studyflare.
